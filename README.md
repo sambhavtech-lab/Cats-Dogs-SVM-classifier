@@ -1,4 +1,4 @@
-# 🐶🐱 Cats vs Dogs Image Classification using SVM
+#  Cats vs Dogs Image Classification using SVM
 
 ## 📌 Project Overview
 
@@ -89,7 +89,7 @@ Experiments performed:
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 - Understanding classical ML for image classification
 - Feature engineering using HOG
@@ -108,7 +108,7 @@ Experiments performed:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates the effectiveness of classical Machine Learning techniques for image classification tasks. 
 
